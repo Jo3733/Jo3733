@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Php?,Yii2,python,Django
 - 💞️ I’m looking to collaborate on Full Stack Developer 
-- 📫 How to reach me Middle Full Stack Developer
 
 <!---
 Jo3733/Jo3733 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
